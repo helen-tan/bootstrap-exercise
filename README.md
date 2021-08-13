@@ -3,7 +3,12 @@
 
 It is a responsive frontend webpage, built using Bootstrap 4.
 
-![Website screenshot](https://github.com/helen-tan/bootstrap-exercise/blob/master/Screenshot.jpg?raw=true)
+<!-- ![Website Screenshot](img/Screenshot.PNG?raw=true)-->
+
+<div align="center">
+  <img src="img/Screenshot.PNG?" width="650px">
+</div>
+
 
 ## Motivation For Project
 This project is built primarily for the purpose of learning Bootstrap 4, a client-side UI framework, to familiarize myself with the using the 12-column grid system for responsive design, Bootstrap CSS, Javascript Components and CSS preprocessors, Less and Sass. 
